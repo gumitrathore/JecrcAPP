@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881880460322",
+    "firebase_url": "https://jecrcapp-9e773.firebaseio.com",
+    "project_id": "jecrcapp-9e773",
+    "storage_bucket": "jecrcapp-9e773.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881880460322:android:e268e388778ebdd3876e7b",
+        "android_client_info": {
+          "package_name": "com.example.jecrcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881880460322-kf0f13lf4s0epco9b61ijm4fvu1i35t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jecrcapp",
+            "certificate_hash": "d8dc0aa63379f2d8042d10eebd27bf9450abf9a3"
+          }
+        },
+        {
+          "client_id": "881880460322-3c97th1t1ghq7sa1vjb7u9jk28dd1eb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoeLQQeQy0wCCjlZsMp6E9PO8CYT0sGPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881880460322-3c97th1t1ghq7sa1vjb7u9jk28dd1eb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
